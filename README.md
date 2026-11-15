@@ -30,8 +30,8 @@
 
 | 🖼️ Logo | 📦 Application | ✨ Key Features & Details | 🔗 Direct APK | 🌐 Other Devices / Official |
 | :---: | :--- | :--- | :---: | :---: |
-| <img src="assets/shiopa-logo.png" width="48" height="48" alt="Shiopa" /> | **Shiopa**<br><sub>Type: Streaming & Media Suite</sub> | Free streaming • Unlimited downloads • Built-in music player & TV remote • Liquid glass UI animations | [**`↓ Download APK`**](https://example.com) | [**`↗ All Builds & Official`**](https://help.shiopa.com/docs/install) |
-| <img src="assets/nxsha-logo.png" width="48" height="48" alt="Nxsha" /> | **Nxsha**<br><sub>Type: Multi-Device Streamer</sub> | High-speed streaming engine • Full Android Phone, Android TV & Fire TV compatibility | [**`↓ Download APK`**](https://example.com) | [**`↗ All Builds & Official`**](https://nxsha.app/#download-app) |
+| <img src="assets/shiopa-logo.png" width="48" height="48" alt="Shiopa" /> | **Shiopa**<br><sub>Type: Streaming & Media Suite</sub> | Free streaming • Unlimited downloads • Built-in music player & TV remote • Liquid glass UI animations | [**`↓ Download APK`**](https://github.com/MR-ABID07/Stream-X-/releases/download/v1.1.7/Shiopa-v1.1.7.apk) | [**`↗ All Builds & Official`**](https://help.shiopa.com/docs/install) |
+| <img src="assets/nxsha-logo.png" width="48" height="48" alt="Nxsha" /> | **Nxsha**<br><sub>Type: Multi-Device Streamer</sub> | High-speed streaming engine • Full Android Phone, Android TV & Fire TV compatibility | [**`↓ Download APK`**](https://github.com/MR-ABID07/Stream-X-/releases/download/v2.6/Nxsha-v2.6-.Universal.apk) | [**`↗ All Builds & Official`**](https://nxsha.app/#download-app) |
 
 ---
 
