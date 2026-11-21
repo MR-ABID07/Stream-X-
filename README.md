@@ -14,7 +14,7 @@
 
 <!-- Studio-Grade Flat Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/POWERED_BY-ABID-0f172a?style=flat-square&logo=github&logoColor=5ce1e6" alt="Powered by ABID" />
+  <img src="https://img.shields.io/badge/POWERED_BY-ABID-0f172a?style=flat-square&logo=github&logoColor=5ce1e6" alt="Powered by Abid" />
   <img src="https://img.shields.io/badge/EDITION-2026_RELEASE-0f172a?style=flat-square&logo=semanticrelease&logoColor=a78bfa" alt="2026 Edition" />
   <img src="https://img.shields.io/badge/PLATFORM-ANDROID-0f172a?style=flat-square&logo=android&logoColor=4ade80" alt="Android" />
   <img src="https://img.shields.io/badge/STATUS-VERIFIED-0f172a?style=flat-square&logo=checkmarx&logoColor=5ce1e6" alt="Verified" />
@@ -34,6 +34,7 @@
 | <img src="assets/nxsha-logo.png" width="48" height="48" alt="Nxsha" /> | **Nxsha**<br><sub>Type: Multi-Device Streamer</sub> | High-speed streaming engine • Full Android Phone, Android TV & Fire TV compatibility | [**`↓ Download APK`**](https://github.com/dev-alessiorizzo/nxsha-apk/releases/download/V2.6/Nxsha-v2.6-.Universal.apk) | [**`↗ All Builds & Official`**](https://nxsha.app/) |
 | <img src="assets/MovieStream.png" width="48" height="48" alt="Movie Stream" /> | **Movie Stream**<br><sub>Type: Movies & Series Hub</sub> | Multi-language audio & subtitles • Crisp `1080p` HD streaming • Built-in 18+ / Adult mode toggle • Fast servers | [**`↓ Download APK`**](https://www.moviestream.bond/MovieStream-v1.0.162-build163-release.apk) | [**`↗ All Builds & Official`**](https://moviestream.bond/) |
 | <img src="assets/cinedheu-logo.png" width="48" height="48" alt="CineDheu" /> | **CineDheu**<br><sub>Type: Regional & Global Cinema</sub> | Multi-language library • Smooth `1080p` playback • Dedicated Adult mode • Lightweight & fast UI | [**`↓ Download APK`**](https://github.com/code9xrs-hub/CineDheu/releases/download/v1.0.4/app-release.apk) | [**`↗ All Builds & Official`**](https://code9xrs-hub.github.io/CineDheu/#) |
+| <img src="assets/flixora-logo.png" width="48" height="48" alt="Flixora" /> | **Flixora**<br><sub>Type: Movies & Series Hub</sub> | Multi-language audio & subtitles • Crisp `1080p` HD streaming • Built-in 18+ / Adult mode • Fast servers | [**`↓ Download APK`**](https://github.com/shohanur2/FLIXORA-DOWNLOADS/releases/download/V1.0.14/FLIXORA-v1.0.14.apk) | [**`↗ All Builds & Official`**](https://flixora.app/) |
 
 ---
 
